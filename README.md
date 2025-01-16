@@ -41,4 +41,5 @@ This Python program is a two-player trivia game where players take turns answeri
    - `trivia_questions.py`
    - `trivia_game.py`
 2. Run the program:
-   ```ba
+   ```bash
+   python3 trivia_game.py
